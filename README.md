@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohebkhan
-- 💻 Frontend: HTML | CSS | JavaScript | React.js
-- ☕ Backend: Java | Spring Boot
-- 🗄️ Databases: Oracle | MySQL
+- 👨‍💻 Code Artisan | 🌐 Frontend: HTML, CSS, JS, React.js
+- ⚙️ Backend Architect: ☕ Java | Spring Boot
+- 📊 Data Alchemist: 🗄️ Oracle, MySQL
 🌟 Crafting seamless user experiences & scalable systems! 🚀.
 
 <!---
